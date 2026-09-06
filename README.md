@@ -10,7 +10,20 @@
 ---
 ## Technology Stack
 ### Backend
-PHP 8.x
-PDO
-MySQL 5.7
-Apache
+- PHP 8.2
+- MySQL 5.7
+- Apache
+
+---
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- jQuery Validation
+- Bootstrap
+
+---
+### Development Environment
+- Docker
+- Docker Compose
