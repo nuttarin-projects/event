@@ -14,7 +14,7 @@ $isOphDay=Manager::isOphDay($eventId,Constants::$OPH_DATE[$eventId]);// 1 is oph
     <!-- ปุ่มลงทะเบียน pre register -->
     <div class="flex justify-center mb-6">
       <div class="w-11/12 md:w-6/12 lg:w-5/12 xl:w-4/12 text-center">
-        <a href="sign-up.php">
+        <a href="register.php">
           <img src="assets/images/pre_register.png?ver=<?= $rand ?>" alt="btn register" class="w-full max-w-md mx-auto transition hover:scale-105">
         </a>
       </div>
